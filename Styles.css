@@ -11,12 +11,32 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Arial', 'Helvetica', sans-serif !important; 
+    text-align: center;
 }
 
 a {
     font-size: 12px; 
+    margin-left: 55px;
 }
 
 ul, ol {
     color: #ff2600; 
+    margin-left: 55px;
 }
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 55px;
+    text-align: center;
+  }
+
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-bottom: 0px;
+    margin-top: 0px
+  }
